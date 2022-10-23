@@ -1,3 +1,3 @@
-# jb-SMU04-TimedCodeQuiz with High Scores
+# jb-SMU04-CodeQuiz, Timed with High Scores
 
 
