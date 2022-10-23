@@ -19,29 +19,34 @@ let storedScores = JSON.parse(localStorage.getItem("userData"));
 let questions = [
     {
         title: "Q1: JavaScript data types do not include:---",
-        choices: ["strings","booleans","alerts", "numbers"],
-        answer : "alerts"    
+        choices: ["Strings","Booleans","Alerts", "Numbers"],
+        answer : "Alerts"    
     },
     {
         title: "Q2: The if/else statement is enclosed within:---",
-        choices: ["quotes","curly brackets","parentheses", "square brackets"],
-        answer : "parentheses"    
+        choices: ["Quotes","Curly brackets","Parentheses", "Square brackets"],
+        answer : "Parentheses"    
     },
     {
         title: "Q3: Arrays in JavaScript can be used to store:---",
-        choices: ["numbers and strings","others arrays","booleans", "all of the above"],
-        answer : "all of the above"    
+        choices: ["Numbers and strings","Other arrays","Booleans", "All of the above"],
+        answer : "All of the above"    
     },
     {
         title: "Q4: String values must be enclosed within --- when assigned to variables ",
-        choices: ["commas","curly brackets","quotes","parentheses"],
-        answer : "quotes"    
+        choices: ["Commas","Curly brackets","Quotes","Parentheses"],
+        answer : "Quotes"    
     },
     {
         title: "Q5: A useful tool for printing content to the debugger to assist with development and debugging is:---",
-        choices: ["JavaScript","terminal/bash","alerts", "console.log"],
-        answer : "console.log"    
+        choices: ["JavaScript","Terminal/bash","Alerts", "Console.log"],
+        answer : "Console.log"    
     },
+    {
+        title: "Q6: Which of the following is true about typeof operator in JavaScript?",
+        choices: ["The typeof is a unary operator that is placed before its single operand, which can be of any type","It's value is a string indicating the data type of the operand", "None of the above", "Both of the above"],
+        answer : "Both of the above"    
+    }
 ]
 btnStart.addEventListener("click", starQuiz);
 function starQuiz(){
