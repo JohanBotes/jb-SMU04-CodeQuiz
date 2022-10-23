@@ -1,2 +1,3 @@
-# jb-SMU04-CodeQuiz
-JavaScript Code Quiz - 20 Questions
+# jb-SMU04-TimedCodeQuiz with High Scores
+
+
