@@ -3,7 +3,7 @@
 - A timed coding quiz with 6 x multiple-choice questions, storing a list of high scores afterwards.
 - This app runs in the browser, and features dynamically updated HTML and CSS + BootStrap powered by JavaScript code.
 - It has a clean, polished, and responsive user interface.
-- Live website URL: 
+- Live website URL: https://johanbotes.github.io/jb-SMU04-CodeQuiz/ 
 
 ## User Story
 - AS A coding boot camp student
