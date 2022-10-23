@@ -32,3 +32,4 @@
 ![CodeQuiz Start Page](https://github.com/JohanBotes/jb-SMU04-CodeQuiz/blob/main/CodeQuiz%20Start%20Page.png)
 ![CodeQuiz Questions Answers Page](https://github.com/JohanBotes/jb-SMU04-CodeQuiz/blob/main/CodeQuiz%20QuestionAnswer%20page.png)
 ![CodeQuiz Register score page](https://github.com/JohanBotes/jb-SMU04-CodeQuiz/blob/main/CodeQuiz%20Register%20score%20page.png)
+![CodeQuiz List of High Scores saved page](https://github.com/JohanBotes/jb-SMU04-CodeQuiz/blob/main/CodeQuiz%20Hig%20Scores%20List%20page.png)
