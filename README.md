@@ -1,4 +1,4 @@
-# jb-SMU04-CodeQuiz, Timed with High Scores
+# jb-SMU04-CodeQuiz, Timed, and storing a list with High Scores
 
 - A timed coding quiz with multiple-choice questions, storing high scores afterwards.
 - This app runs in the browser, and feature dynamically updated HTML and CSS + BootStrap powered by JavaScript code.
