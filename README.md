@@ -29,4 +29,4 @@
 
 ## Images:
 
-![CodeQuiz Start Page])https://github.com/JohanBotes/jb-SMU04-CodeQuiz/blob/main/CodeQuiz%20Start%20Page.png)
+![CodeQuiz Start Page](https://github.com/JohanBotes/jb-SMU04-CodeQuiz/blob/main/CodeQuiz%20Start%20Page.png)
