@@ -1,4 +1,4 @@
-# jb-SMU04-CodeQuiz _ The Quiz is timed, and once completed stores a list with High Scores
+# 04 - JavaCript timed Code Quiz, and once completed stores a list with High Scores
 
 - A timed coding quiz with 6 x multiple-choice questions, storing a list of high scores afterwards.
 - This app runs in the browser, and features dynamically updated HTML and CSS + BootStrap powered by JavaScript code.
